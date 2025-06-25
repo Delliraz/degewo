@@ -8,7 +8,7 @@ dotenv.config();
 const URL = 'https://www.degewo.de/immosuche';
 
 const DATA_FILE = 'known_ids.json';
-const chatIds = ['1100647892', '5165447932']; //
+const chatIds = ['1100647892']; //'5165447932'
 
 async function sendTelegramMessage(message) {
   for (const chatId of chatIds) {
@@ -67,7 +67,7 @@ async function getCurrentListings() {
       const warmmiete = parseFloat(warmmieteHtml.innerHTML.trim().replace('€', '').trim().replace(',', '.'));
       const zimmer = el.querySelector('.article__properties-item .text', spans =>
   spans.find(span => span.innerText.includes('Zimmer'))?.innerText.split(' ')[0] || null).innerText;
-      const id = link.split('/').pop(); // Use URL slug as ID
+      const id =el.querySelector('[data-openimmo-bookmark-item-uid]').getAttribute('data-openimmo-bookmark-item-uid');
       return { id, title, link, warmmiete, zimmer };
     });
   });
@@ -77,8 +77,9 @@ async function getCurrentListings() {
 }
 
 async function main() {
+  checkListings()
   
-  setInterval(checkListings, 5 * 60 * 1000);
+  setInterval(checkListings, 5*60 * 1000);
 
 }
 

@@ -9,3 +9,157 @@
 Message sent to 1100647892
 Message sent to 5165447932
 ✅ 1 new listing(s) sent.
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near future `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+🔄 No new listings found.
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near future `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+🔄 No new listings found.
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near future `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near future `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near future `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+🔄 No new listings found.
+🔄 No new listings found.
+🔄 No new listings found.
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near future `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+🔄 No new listings found.
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near future `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near future `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+🔄 No new listings found.
+Error [ReferenceError]: page is not defined
+pptr:evaluate;getCurrentListings%20(file%3A%2F%2F%2FUsers%2Fviktor.korneev%2FDownloads%2Fdegewo%2Findex.js%3A60%3A31):11:17
+    at evaluate (evaluate at getCurrentListings (file:///Users/viktor.korneev/Downloads/degewo/index.js:60:31), <anonymous>:3:32)
+    at #evaluate (file:///Users/viktor.korneev/Downloads/degewo/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/ExecutionContext.js:219:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ExecutionContext.evaluate (file:///Users/viktor.korneev/Downloads/degewo/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/ExecutionContext.js:114:16)
+    at async IsolatedWorld.evaluate (file:///Users/viktor.korneev/Downloads/degewo/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/IsolatedWorld.js:121:16)
+    at async CdpFrame.evaluate (file:///Users/viktor.korneev/Downloads/degewo/node_modules/puppeteer-core/lib/esm/puppeteer/api/Frame.js:350:20)
+    at async CdpPage.evaluate (file:///Users/viktor.korneev/Downloads/degewo/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:814:20)
+    at async getCurrentListings (file:///Users/viktor.korneev/Downloads/degewo/index.js:60:20)
+    at async checkListings (file:///Users/viktor.korneev/Downloads/degewo/index.js:89:20)
+    at async main (file:///Users/viktor.korneev/Downloads/degewo/index.js:81:3)
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near future `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near future `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+🔄 No new listings found.
+🔄 No new listings found.
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near future `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+🔄 No new listings found.
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near future `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+🔄 No new listings found.
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near future `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+🔄 No new listings found.
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near future `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error [ReferenceError]: page is not defined
+pptr:evaluate;getCurrentListings%20(file%3A%2F%2F%2FUsers%2Fviktor.korneev%2FDownloads%2Fdegewo%2Findex.js%3A60%3A31):11:17
+    at evaluate (evaluate at getCurrentListings (file:///Users/viktor.korneev/Downloads/degewo/index.js:60:31), <anonymous>:10:16)
+    at evaluate (evaluate at getCurrentListings (file:///Users/viktor.korneev/Downloads/degewo/index.js:60:31), <anonymous>:3:32)
+    at #evaluate (file:///Users/viktor.korneev/Downloads/degewo/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/ExecutionContext.js:219:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ExecutionContext.evaluate (file:///Users/viktor.korneev/Downloads/degewo/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/ExecutionContext.js:114:16)
+    at async IsolatedWorld.evaluate (file:///Users/viktor.korneev/Downloads/degewo/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/IsolatedWorld.js:121:16)
+    at async CdpFrame.evaluate (file:///Users/viktor.korneev/Downloads/degewo/node_modules/puppeteer-core/lib/esm/puppeteer/api/Frame.js:350:20)
+    at async CdpPage.evaluate (file:///Users/viktor.korneev/Downloads/degewo/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:814:20)
+    at async getCurrentListings (file:///Users/viktor.korneev/Downloads/degewo/index.js:60:20)
+    at async Timeout.checkListings [as _onTimeout] (file:///Users/viktor.korneev/Downloads/degewo/index.js:88:20)
+
+Node.js v18.19.1
